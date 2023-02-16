@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
         // vou ter de fazer mais um
         // sera esta a ultima?
 
+        // vamos ver o master se ligou
     }
 }
