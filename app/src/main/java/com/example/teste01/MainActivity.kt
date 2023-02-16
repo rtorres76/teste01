@@ -8,7 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //um tigre, dois tigres, três triguess
+        //um tigre, dois tigres, três trigues
+        //comentario novo
 
     }
 }
